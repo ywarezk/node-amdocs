@@ -1,10 +1,15 @@
-# Node + Express
+# React
 
-In this lesson we will Learn how to build http server using Node.js and Express.
+We will use react in this lesson to create web sites
 
-## Lesson Plan
+## to learn react
 
-1. Node introduction
-2. modules
-3. Express
-4. Database
+- Core React
+- Platform Specific - web
+
+## Javascript
+
+
+
+
+
